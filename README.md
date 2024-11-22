@@ -41,15 +41,14 @@ Here are some ideas to get you started:
 <br>
 
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Eventos de la comunidad
 
 <p align="center">
-  <a href="https://codeforces.com/profile/7oSkaaa"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces"/></a>
-	<a href="https://leetcode.com/7oSkaa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode"/></a>
-	<a href="https://atcoder.jp/users/ahmed_7oSkaa"><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width = 60px/></a>
-	<a href="https://www.codechef.com/users/ahmed_7oskaa"><img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/></a>
-	<a href="https://icpc.global/ICPCID/IW0X0CTD0ZV9"><img src="https://i.ibb.co/6J0r7rW/Daco-5610880.png" alt="ICPC Global" width = 60px /></a>     
-	<a href="https://www.codingame.com/profile/e5e56c7585fda3b457056b85180a4d636850344" ><img src="https://i.ibb.co/1MRppTC/codingame-1.png" alt="Codingame" width="100" height="50">
+  <a href="https://codeforces.com/profile/7oSkaaa"><img width="250px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKirNjOnvpKHwskr3ScI2RYXFGFrrqeul4LQ&s" alt="Code Forces"/></a>
+	<a href="https://leetcode.com/7oSkaa/"><img width="250px" src="https://i.ibb.co/r6JnstH/image.png" alt="LeetCode"/></a>
+	<a href="https://atcoder.jp/users/ahmed_7oSkaa" ><img width="250px" src="https://github.com/user-attachments/assets/cd931fca-e96e-47f2-a695-6dd0ae30df8a" alt="AtCoder" width = 60px/></a>
+	<a href="https://gdg.community.dev/events/details/google-gdg-santa-cruz-presents-google-io-extended-1/"><img src="https://sessionize.com/image/8f72-1140o400o3-aMCQDSDnR36HkrxUQw4k7n.png" alt="Code Chef"/></a>
+	
 </p>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
