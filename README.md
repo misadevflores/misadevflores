@@ -8,10 +8,10 @@
 
 ---
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
+## <picture><img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width = 50px></picture> Sobre mí
 
 <picture> 
-    <img align="right" src="https://github.com/misadevflores/misadevflores/blob/main/assets/developer.gif?raw=true" width = 250px">
+    <img align="right" src="https://raw.githubusercontent.com/misadevflores/misadevflores/main/assets/developer.gif" width = 250px">
 </picture>
 
 👋 ¡Hola! Soy **Misael Flores (Misadev)**.
@@ -27,21 +27,21 @@
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> Logros Destacados
+## <picture> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/competitive_programming_profile.png" width=40> </picture> Logros Destacados
 
 <p align="center"> 
     <a href="https://www.spaceappschallenge.org/"> 
-        <img width="280px" src="https://github.com/misadevflores/misadevflores/blob/main/assets/nasa-space-apps.png?raw=true" alt="NASA Space Apps Challenge"/> 
+        <img width="280px" src="https://raw.githubusercontent.com/misadevflores/misadevflores/main/assets/nasa-space-apps.png" alt="NASA Space Apps Challenge"/> 
     </a> 
     <a href="https://misadevflores.com"> 
-        <img width="280px" src="https://github.com/misadevflores/misadevflores/blob/main/assets/web-development.png?raw=true" alt="Desarrollo Web"/> 
+        <img width="280px" src="https://raw.githubusercontent.com/misadevflores/misadevflores/main/assets/web-development.png" alt="Desarrollo Web"/> 
     </a> 
 </p>
 > **🏆 Ganador del NASA Space Apps Challenge - Premio al "Mejor Uso de Tecnología"**
 
 ---
 
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Conécta conmigo
+## <picture> <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Connect-with-me.gif" width="100px"> </picture> Conécta conmigo
 
 <p align="center"> 
     <a href="mailto:contacto@misadevflores.com"> 
@@ -62,14 +62,14 @@
 
 ## 🛠️ Mis Habilidades
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px> </picture> Lenguajes de Programación
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Programming_Languages.gif" width = 50px> </picture> Lenguajes de Programación
 <p align="center"> 
     &emsp; <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"> </a> 
     &emsp; <a href="https://www.typescriptlang.org/" target="_blank"> <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> </a> 
     &emsp; <a href="https://www.php.net/" target="_blank"> <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"> </a>
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px> </picture> Desarrollo Frontend
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Front_End.gif" width = 50px> </picture> Desarrollo Frontend
 <p align="center"> 
     &emsp; <a href="https://reactjs.org/" target="_blank"> <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black"> </a> 
     &emsp; <a href="https://nextjs.org/" target="_blank"> <img alt="Next.js" src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white"> </a> 
@@ -79,7 +79,7 @@
     &emsp; <a href="https://www.w3schools.com/css/" target="_blank"> <img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> </a> 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Back_End.gif?raw=true" width = 50px> </picture> Desarrollo Backend
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Back_End.gif" width = 50px> </picture> Desarrollo Backend
 <p align="center"> 
     &emsp; <a href="https://nodejs.org/" target="_blank"> <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white"> </a>
     &emsp; <a href="https://laravel.com/" target="_blank"> <img alt="Laravel" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"> </a>
@@ -87,19 +87,56 @@
     &emsp; <a href="https://www.mysql.com/" target="_blank"> <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"> </a> 
 </p>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px> </picture> Herramientas & Tecnologías
+### <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Software_Tools.gif" width = 50px> </picture> Herramientas & Tecnologías
 <p align="center"> 
     &emsp; <a href="https://wordpress.com/" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"></a>
+    &emsp; <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
     &emsp; <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
     &emsp; <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
     &emsp; <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a> 
-    &emsp; <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a> 
     &emsp; <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> 
 </p>
 
 ---
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px> </picture> Estadísticas de GitHub
+## 🤝 Servicios y Planes
+
+Estoy listo para ayudarte a crear tu próxima solución digital. Estos son los planes de desarrollo que ofrezco:
+
+| Servicio | Paquete Básico (USD 220) | Paquete Estándar (USD 360) | Paquete Pro (USD 452) |
+| :--- | :---: | :---: | :---: |
+| **Desarrollo Web** | ✅ | ✅ | ✅ |
+| **Diseño Responsive** | ✅ | ✅ | ✅ |
+| **SEO Básico/Avanzado** | ✅ (Básico) | ✅ (Avanzado) | ✅ (Avanzado + Opt. Completa) |
+| **WordPress / Plantilla Custom** | | ✅ | ✅ |
+| **E-commerce & Pasarela de Pagos** | | | ✅ |
+| **Hosting Premium & Dominio** | | | ✅ |
+| **Backend Completo & DB** | | ✅ (Base de datos) | ✅ (Backend Completo) |
+| **Soporte y Capacitaciones** | Soporte 1 Mes | Soporte | Soporte Extendido |
+
+[**Ver detalles completos en mi sitio web**](https://misadevflores.com/#pricing)
+
+---
+
+## ⭐ Testimonios
+
+Lo que mis clientes dicen sobre mi trabajo:
+
+> "Excelente trabajo, conoce los clientes y siempre sus ideas acompañan el crecimiento de una empresa aunque sea pequeña"
+>
+> — **Roxana Hurtado** (Empleame Gestión H.E)
+
+> "Se brinda no solamente buen asesoramiento sino productos de calidad, recibiendo una buena experiencia al trabajar. Muy buen trabajo"
+>
+> — **Rossibel Castro Cruz** (Cliente Satisfecha)
+
+> "Conocí a Misael a través de Facebook. Fue muy profesional, eficiente y quedé muy contenta. Le he encargado varios trabajos y en todos ha demostrado su agilidad y conocimiento."
+>
+> — **Marcia V. Villamar** (Cliente Satisfecha)
+
+---
+
+## <picture> <img src = "https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/Statistics.gif" width = 50px> </picture> Estadísticas de GitHub
 <details><summary><h3> 🔥 Estadísticas de Racha</h3></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=misadevflores&theme=tokyonight_duo" alt="misadevflores" /></p></details>
 <details><summary><h3>💻 Estadísticas del Perfil</h3></summary>
@@ -132,7 +169,7 @@
 
 ## 📈 Contribuciones
 <p align = "center"> 
-    <img src = "https://github.com/misadevflores/misadevflores/blob/main/assets/github-contribution-grid-snake.svg" alt = "Snake Game"/> 
+    <img src = "https://raw.githubusercontent.com/misadevflores/misadevflores/main/assets/github-contribution-grid-snake.svg" alt = "Snake Game"/> 
 </p>
 
 ---
