@@ -91,10 +91,8 @@
 <p align="center"> 
     &emsp; <a href="https://wordpress.com/" target="_blank"><img alt="WordPress" src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white"></a>
     &emsp; <a href="https://www.figma.com/" target="_blank"><img alt="Figma" src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></a>
-    &emsp; <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a> 
     &emsp; <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a> 
-    &emsp; <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></a> 
-    &emsp; <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a> 
+   
 </p>
 
 ---
